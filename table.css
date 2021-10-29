@@ -1,0 +1,29 @@
+th{
+    width:70px;
+    height:70px;
+    border:1px solid black;
+}
+img{
+    width:70px;
+    height:70px;
+}
+h1{
+    text-align:center;
+}
+
+th:hover{
+    background-color:#FFA500;
+    color:#0000FF;
+    transform:scale(1.2);
+    transition: 2s;
+    border-color:#FFA500;
+}
+table{
+    background: linear-gradient(to top, #fefcea, #f1da36);
+    width:90%;
+    height:90%;
+    border:1px solid black;
+}
+td{
+    border:1px solid black;
+}
